@@ -1,5 +1,5 @@
 # Hi 👋, I'm Md Jahidul Islam (Ifaz)
-### Computer Science Student at AIUB | AI & Medical Imaging Researcher
+### Computer Science Student at AIUB | 
 
 ---
 
