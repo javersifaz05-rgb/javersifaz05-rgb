@@ -32,3 +32,5 @@
 
 ### 📊 GitHub Stats
 ![Jahidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javersifaz05-rgb&show_icons=true&theme=radial)
+### 🐍 Contribution Graph Snake
+![Snake Animation](https://raw.githubusercontent.com/javersifaz05-rgb/javersifaz05-rgb/output/github-contribution-grid-snake.svg)
