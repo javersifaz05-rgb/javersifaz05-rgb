@@ -1,4 +1,7 @@
 # Hi 👋, I'm Md Jahidul Islam (Ifaz)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=20BEFF&width=450&lines=AI+%26+Medical+Imaging+Researcher;Deep+Learning+Enthusiast;CSE+Student+at+AIUB" alt="Typing SVG" />
+</a>
 ### Computer Science Student at AIUB 
 
 ---
