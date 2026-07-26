@@ -43,5 +43,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/top-langs/?username=javersifaz05-rgb&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
 </p>
-### 🐍 Contribution Graph
-![Snake Animation](https://raw.githubusercontent.com/javersifaz05-rgb/javersifaz05-rgb/output/github-contribution-grid-snake-dark.svg)
