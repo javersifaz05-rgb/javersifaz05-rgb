@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Deep Learning **
+- 🔭 I’m currently working on **Deep Learning**
 - 🌱 I’m currently learning **Advanced Machine Learning, Computer Vision & Explainable AI (XAI)**
 - 🎓 Studying **Computer Science & Engineering at American International University-Bangladesh (AIUB)**
 - 📬 How to reach me: **mdjahidulislamifaz2022@gmail.com**
